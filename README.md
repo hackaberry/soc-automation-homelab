@@ -10,8 +10,8 @@ My goal throughout this project is to:
 - [Environment Setup](#part-1---environment-setup)
 - [Platform Configuration](#part-2---platform-configuration)
 - [Creating Our First Rule](#part-3---creating-our-first-rule)
-- [TheHive Integration](#part-4---thehive-integration)
-- [Wazuh Automation (SOAR)](#part-5---wazuh-automation-soar)
+- [TheHive Integration](#part-4--thehive-integration)
+- [Wazuh Automation (SOAR)](#part-5--wazuh-automation-soar)
 
 
 
