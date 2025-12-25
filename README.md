@@ -245,7 +245,7 @@ Making sure we are logged in as user `John` (the SOC analyst), we will in fact n
 ![Image](Images/Screenshot%20(53).png)
 
 Beautiful, this confirms our integration was successfully setup. Additionally, we can click on this incident and view more information about the alert that triggered.
-![Image](Images/Screenshot%20(54).png)
+![Image1](Images/Screenshot%20(54).png)
 
 ## Conclusion
 
