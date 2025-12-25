@@ -7,11 +7,11 @@ My goal throughout this project is to:
 - Demonstrate **blue team skills**, including setting up a SOC home lab, monitoring endpoint devices, creating custom rules, and automating the creation of incidents through Security Orchestration, Automation, and Response (SOAR), to increase productivity and allocate valuable time to incident response.
 
 ### Project Outline
-##### Part 1 - [[#Part 1 - Environment Setup|Environment Setup]]
-##### Part 2 - [[#Part 2 - Platform Configuration| Platform Configuration]]
-##### Part 3 - [[#Part 3 - Creating our first rule|Creating our first rule]]
-##### Part 4 - [[#Part 4 – TheHive Integration| TheHive Integration]]
-##### Part 5 - [[#Part 5 – Wazuh Automation (SOAR)|Wazuh Automation (SOAR)]]
+- [Environment Setup](#part-1---environment-setup)
+- [Platform Configuration](#part-2---platform-configuration)
+- [Creating Our First Rule](#part-3---creating-our-first-rule)
+- [TheHive Integration](#part-4---thehive-integration)
+- [Wazuh Automation (SOAR)](#part-5---wazuh-automation-soar)
 
 
 
@@ -43,7 +43,7 @@ Running Sysmon is optional but highly recommended, as it gives us far more detai
 
 I installed version 15.15, and used the configuration file from the [Sysmon Modular project](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml), which significantly reduces noise in the security events.
 
-![[Screenshot (1).png]]
+![Sysmon Event Configuration](Images/Screenshot%20(1).png)
 
 ---
 
