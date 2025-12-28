@@ -126,6 +126,7 @@ Let's create our first custom rule. This rule will look for PowerShell commands 
 #### Enabling Script Block Logging
 In order to monitor PowerShell activity, we need to enable something called **PowerShell Script Block Logging**. This can be achieved in various ways, but the easiest is just modifying the Windows Registry by adding a new DWORD (32-bit) key named `EnableScriptBlockLogging`, and setting its value to 1. The path we add this item in is shown in the screenshot below.
 ![Image](Images/Screenshot%20(19).png)
+
 Once this tweak is set, we can now monitor for PowerShell activity in Event Viewer, under the path: `Applications and Services Logs -> Microsoft -> Windows -> PowerShell -> Operational`. 
 
 The following screenshot shows the `whoami` command I executed for demonstration purposes
