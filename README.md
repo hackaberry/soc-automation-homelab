@@ -12,7 +12,7 @@ My goal throughout this project is to:
 - [Creating Our First Rule](#part-3---creating-our-first-rule)
 - [TheHive Integration](#part-4--thehive-integration)
 - [Wazuh Automation (SOAR)](#part-5--wazuh-automation-soar)
-
+- [Conclusion](#conclusion)
 
 
 ---
